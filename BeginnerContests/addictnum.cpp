@@ -33,7 +33,7 @@ ll getval(int pos, int len)
     return ans;
 }
 
-///kiểm tra xem các số đã chia có lập thành cấp số cộng hay không
+///kiểm tra xem các số đã chia có thỏa mãn điều kiện hay không
 bool check(int m)
 {
     int start = 1;
